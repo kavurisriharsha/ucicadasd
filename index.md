@@ -5,6 +5,7 @@
 ## Intial Clue: Coords
 
 A number of clues containing the coordinates 
+
 ```
 32° 53' 18.1752" N
 117° 14' 12.5664" W
@@ -17,7 +18,10 @@ have been found at various spots across campus. These spots have been in close p
 ## Clue 2 (from Coords): QR Code
 
 At the above coords, a QR code is put up on a tree which then [redirects](https://scanqr.to/5e8484a0) to a certain YouTube channel by the name 
-```dXhlmUUnteGlYS5stzo=```
+
+```
+dXhlmUUnteGlYS5stzo=
+```
 
 **This clue is yet to be deciphered.**
 
