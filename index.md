@@ -19,8 +19,7 @@ have been found at various spots across campus. These spots have been in close p
 At the above coords, a QR code is put up on a tree which then [redirects](https://scanqr.to/5e8484a0) to a certain YouTube channel by the name 
 ```dXhlmUUnteGlYS5stzo=```
 
-<span style="color:red">
-This clue is yet to be deciphered.</span>
+**This clue is yet to be deciphered.**
 
 
 ## Clue 3: Video 1
