@@ -1,6 +1,7 @@
 # Summary
 
-## [Repository](https://github.com/kavurisriharsha/ucicadasd)
+#### [Repository](https://github.com/kavurisriharsha/ucicadasd)
+#### [Discord](https://discord.gg/mXMnJc4KUt)
 
 ## Total message thus far `WE AWAIT YOU AT THE INTERSECTION WHERE`
 
